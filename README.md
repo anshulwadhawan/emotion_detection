@@ -1,1 +1,5 @@
-# emotion_detection
+Code repository for paper : Towards Emotion Recognition in Hindi-English Code-Mixed Data: A Transformer Based Approach
+
+Link to paper : https://arxiv.org/abs/2102.09943
+
+Abstract : In the last few years, emotion detection in social-media text has become a popular problem due to its wide ranging application in better understanding the consumers, in psychology, in aiding human interaction with computers, designing smart systems etc. Because of the availability of huge amounts of data from social-media, which is regularly used for expressing sentiments and opinions, this problem has garnered great attention. In this paper, we present a Hinglish dataset labelled for emotion detection. We highlight a deep learning based approach for detecting emotions in Hindi-English code mixed tweets, using bilingual word embeddings derived from FastText and Word2Vec approaches, as well as transformer based models. We experiment with various deep learning models, including CNNs, LSTMs, Bi-directional LSTMs (with and without attention), along with transformers like BERT, RoBERTa, and ALBERT. The transformer based BERT model outperforms all other models giving the best performance with an accuracy of 71.43%.
